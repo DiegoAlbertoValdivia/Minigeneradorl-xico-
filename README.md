@@ -10,7 +10,7 @@ Diego Alberto Valdivia Guerra
 
 Maestro: López Franco Michel Emanuel
 
-Traductores de lenguaje II
+SEMINARIO DE SOLUCION DE PROBLEMAS DE TRADUCTORES DE LENGUAJES II
 2024-A
  
 Introducción
