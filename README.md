@@ -18,16 +18,11 @@ Introducción
 El código utiliza expresiones regulares para buscar patrones específicos, como identificadores y números reales, en el texto ingresado. La interfaz gráfica proporciona una experiencia intuitiva al permitir a los usuarios interactuar fácilmente con el analizador.
 El código utiliza expresiones regulares para buscar patrones específicos, como identificadores y números reales, en el texto ingresado. La interfaz gráfica proporciona una experiencia intuitiva al permitir a los usuarios interactuar fácilmente con el analizador. 
 
-Capturas
-
- 
 
 Al ingresar en forma de texto y dar en analizar se muestra en forma de lista si este pertenece a un identificador o a un número real y estos son separados por espacios o saltos de línea de la forma:
 
 Identificadores = letra (letra|digito)*
 Real = entero.entero+
-
-
 
 
 
